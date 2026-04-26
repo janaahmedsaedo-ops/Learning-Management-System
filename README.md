@@ -1,2 +1,13 @@
-# Learning-Management-System
-A Java LMS with role-based OOP design including Student, Instructor, and Admin classes. Built as a team project at Ain Shams University.
+# Learning Management System (LMS)
+A Java-based LMS applying OOP principles.
+
+## My Contribution
+- Abstract User base class + Student, Instructor, Admin concrete classes
+- Wallet class with credit/debit logic and exception handling
+- Attendee, Organizer, AdminManager interfaces
+
+## Technologies
+Java, OOP Design Principles
+
+## Team
+6 members — Ain Shams University, 2024
